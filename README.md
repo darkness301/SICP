@@ -1,1 +1,1 @@
-# SICP
+# SICP Excercises
